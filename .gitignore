@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs
+/App.Base/obj
+/Movie.Domain/bin/Debug/net6.0
+/Movie.Domain/obj
+/App.Base/bin/Debug/net6.0
+/MovieApplication/bin/Debug/net6.0
+/MovieApplication/obj
+/MovieApplication/Properties
+/MovieApplication/appsettings.json
